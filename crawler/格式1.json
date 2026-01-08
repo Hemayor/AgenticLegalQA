@@ -1,0 +1,69 @@
+{
+  "title": "中华人民共和国环境保护税法(2025修正)",
+//  <h2 class="title">
+//            中华人民共和国环境保护税法(2025修正)
+//
+//
+//            <a bdclick="" logfunc="朗读" logplace="概览" logplate="正文" logother="5321883、中华人民共和国环境保护税法(2025修正)" logcode="019001" target="_blank" flink="true" href="/Readchl/5441c319dd6d34bfbdfb/read" class="btnAudio voice"></a>
+//
+//                <a bdclick="" logfunc="英文" logplace="概览" logplate="正文" logother="5321883、中华人民共和国环境保护税法(2025修正)" logcode="019012" href="/en_law/5441c319dd6d34bfbdfb.html" target="_blank">English</a>
+//
+//
+//        </h2>
+  "law_code": "CLI.1.5321883",#,<a bdclick="" logfunc="法宝引证码" logplace="概览" logplate="正文" logcode="019002" logclick="" target="_blank" href="/fbm">CLI.1.5321883</a>
+  "promulgating_authority": "全国人大常委会",
+  #<a bdclick="" logfunc="制定机关" logplace="概览" logplate="正文" logother="全国人大常委会" logcode="019003" logclick="" target="_blank" class="" href="/law/chl?Aggs.IssueDepartment=201&amp;way=textBasic">全国人大常委会</a>
+  "published_date": "2025-10-28",#,<div class="box"><strong>公布日期：</strong>2025.10.28</div>
+  "effective_date": "2025-10-28",#,<div class="box"><strong>施行日期：</strong>2025.10.28</div>
+  "legal_level": "法律",#,<a bdclick="" logfunc="效力位阶" logplace="概览" logplate="正文" logother="法律" logcode="019003" logclick="" target="_blank" class="" href="/law/chl?Aggs.EffectivenessDic=XA0101&amp;way=textBasic">法律</a>
+  "category": ["税收征收管理", "环保综合规定"],
+  #,<div class="box">
+//
+//                                                        <strong>法规类别：</strong>
+//                                                            <span title="税收征收管理">
+//
+//
+//                                                                    <a bdclick="" logfunc="法规类别" logplace="概览" logplate="正文" logother="税收征收管理" logcode="019003" logclick="" target="_blank" class="" href="/law/chl?Aggs.Category=0320503&amp;way=textBasic">税收征收管理</a>
+//                                                            </span>
+//                                                            <span title="环保综合规定">
+//
+//
+//                                                                    <a bdclick="" logfunc="法规类别" logplace="概览" logplate="正文" logother="环保综合规定" logcode="019003" logclick="" target="_blank" class="" href="/law/chl?Aggs.Category=08901&amp;way=textBasic">环保综合规定</a>
+//                                                            </span>
+//
+//
+//
+//
+//                                                    </div>
+  "chapters": [
+    {
+      "chapter_title": "第一章 总则",#,<p anchor="anchor" class="navzhang" align="center" style="font-size: 16px;"><a name="sort1_zhang_1"></a>第一章　总 则
+//</p>
+      "articles": [
+        {
+          "article_number": 1,#,<span anchor="anchor" class="navtiao" style="font-size: 16px;"><a name="tiao_1"></a>　　第一条</span>
+          "content": "纳税人和税务机关、生态环境主管部门及其工作人员违反本法规定的，依照《中华人民共和国税收征收管理法》、《中华人民共和国环境保护法》和有关法律法规的规定追究法律责任。",#,<div class="kuan-content" style="font-size: 16px;"><span anchor="anchor" class="navtiao" style="font-size: 16px;"><a name="tiao_23"></a>　　第二十三条</span><a name="tiao_23_kuan_1"></a>　纳税人和税务机关、生态环境主管部门及其工作人员违反本法规定的，依照《<a href="/chl/ca88b5ed5ce08c6cbdfb.html?way=textSlc" target="_blank" class="alink" onmouseover="AJI(252598)">中华人民共和国税收征收管理法</a>》、《<a href="/chl/c24f71752129d23dbdfb.html?way=textSlc" target="_blank" class="alink" onmouseover="AJI(223979)">中华人民共和国环境保护法</a>》和有关法律法规的规定追究法律责任。<a href="javascript:void(0);" class="c-icon c-imagine" id="tiao23_kuan1"></a></div>
+          "judicial_case": "https://www.pkulaw.com/clink/pfnl/chl/5441c319dd6d34bfbdfb/28_0_0_0.html?way=textTiaoNewFblx",#,<a href="/clink/pfnl/chl/5441c319dd6d34bfbdfb/2_0_0_0.html?way=textTiaoNewFblx" bdclick="" logclick="" logfunc="引用本法-具体内容" logplace="文本区" logcode="020001" logplate="正文" logother="司法案例" target="_blank" class="clinkS">司法案例(2)</a>   有些法条有司法案例，有些没有，没有的话默认为空
+          "relevant_laws": ["中华人民共和国税收征收管理法","中华人民共和国环境保护法"]#如果content里面有链接，说明有relevant_laws，需要提取出来，否则为空
+        },
+        {
+          "article_number": 2,
+          "content": "在中华人民共和国领域和中华人民共和国管辖的其他海域...",
+          "judicial_case": "",
+          "relevant_laws": []
+        }
+      ]
+    },
+    {
+      "chapter_title": "第二章 计税依据和应纳税额",
+      "articles": [
+        {
+          "article_number": 7,
+          "content": "应税污染物的计税依据，按照下列方法确定：...",
+          "judicial_case": "",
+          "relevant_laws": []
+        }
+      ]
+    }
+  ]
+}

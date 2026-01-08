@@ -1,0 +1,218 @@
+{
+  "title": "中华人民共和国环境保护税法(2025修正)English",
+  "law_code": "CLI.1.5321883",
+  "promulgating_authority": "全国人大常委会",
+  "published_date": "2025-10-28",
+  "effective_date": "2025-10-28",
+  "legal_level": "法律",
+  "category": [
+    "税收征收管理",
+    "环保综合规定"
+  ],
+  "chapters": [
+    {
+      "chapter_title": "第一章 总 则",
+      "articles": [
+        {
+          "article_number": "第一条",
+          "content": "为了保护和改善环境，减少污染物排放，推进生态文明建设，制定本法。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第二条",
+          "content": "在中华人民共和国领域和中华人民共和国管辖的其他海域，直接向环境排放应税污染物的企业事业单位和其他生产经营者为环境保护税的纳税人，应当依照本法规定缴纳环境保护税。",
+          "judicial_case": "https://www.pkulaw.com/clink/pfnl/chl/5441c319dd6d34bfbdfb/2_0_0_0.html?way=textTiaoNewFblx",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第三条",
+          "content": "本法所称应税污染物，是指本法所附《环境保护税税目税额表》、《应税污染物和当量值表》规定的大气污染物、水污染物、固体废物和噪声。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第四条",
+          "content": "有下列情形之一的，不属于直接向环境排放污染物，不缴纳相应污染物的环境保护税：",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第五条",
+          "content": "依法设立的城乡污水集中处理、生活垃圾集中处理场所超过国家和地方规定的排放标准向环境排放应税污染物的，应当缴纳环境保护税。\n企业事业单位和其他生产经营者贮存或者处置固体废物不符合国家和地方环境保护标准的，应当缴纳环境保护税。",
+          "judicial_case": "https://www.pkulaw.com/clink/pfnl/chl/5441c319dd6d34bfbdfb/5_0_0_0.html?way=textTiaoNewFblx",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第六条",
+          "content": "环境保护税的税目、税额，依照本法所附《环境保护税税目税额表》执行。\n应税大气污染物和水污染物的具体适用税额的确定和调整，由省、自治区、直辖市人民政府统筹考虑本地区环境承载能力、污染物排放现状和经济社会生态发展目标要求，在本法所附《环境保护税税目税额表》规定的税额幅度内提出，报同级人民代表大会常务委员会决定，并报全国人民代表大会常务委员会和国务院备案。",
+          "judicial_case": "",
+          "relevant_laws": []
+        }
+      ]
+    },
+    {
+      "chapter_title": "第二章 计税依据和应纳税额",
+      "articles": [
+        {
+          "article_number": "第七条",
+          "content": "应税污染物的计税依据，按照下列方法确定：",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第八条",
+          "content": "应税大气污染物、水污染物的污染当量数，以该污染物的排放量除以该污染物的污染当量值计算。每种应税大气污染物、水污染物的具体污染当量值，依照本法所附《应税污染物和当量值表》执行。",
+          "judicial_case": "https://www.pkulaw.com/clink/pfnl/chl/5441c319dd6d34bfbdfb/8_0_0_0.html?way=textTiaoNewFblx",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第九条",
+          "content": "每一排放口或者没有排放口的应税大气污染物，按照污染当量数从大到小排序，对前三项污染物征收环境保护税。\n每一排放口的应税水污染物，按照本法所附《应税污染物和当量值表》，区分第一类水污染物和其他类水污染物，按照污染当量数从大到小排序，对第一类水污染物按照前五项征收环境保护税，对其他类水污染物按照前三项征收环境保护税。\n省、自治区、直辖市人民政府根据本地区污染物减排的特殊需要，可以增加同一排放口征收环境保护税的应税污染物项目数，报同级人民代表大会常务委员会决定，并报全国人民代表大会常务委员会和国务院备案。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第十条",
+          "content": "应税大气污染物、水污染物、固体废物的排放量和噪声的分贝数，按照下列方法和顺序计算：",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第十一条",
+          "content": "环境保护税应纳税额按照下列方法计算：",
+          "judicial_case": "",
+          "relevant_laws": []
+        }
+      ]
+    },
+    {
+      "chapter_title": "第三章 税收减免",
+      "articles": [
+        {
+          "article_number": "第十二条",
+          "content": "下列情形，暂予免征环境保护税：\n前款第五项免税规定，由国务院报全国人民代表大会常务委员会备案。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第十三条",
+          "content": "纳税人排放应税大气污染物或者水污染物的浓度值低于国家和地方规定的污染物排放标准百分之三十的，减按百分之七十五征收环境保护税。纳税人排放应税大气污染物或者水污染物的浓度值低于国家和地方规定的污染物排放标准百分之五十的，减按百分之五十征收环境保护税。",
+          "judicial_case": "",
+          "relevant_laws": []
+        }
+      ]
+    },
+    {
+      "chapter_title": "第四章 征收管理",
+      "articles": [
+        {
+          "article_number": "第十四条",
+          "content": "环境保护税由税务机关依照《中华人民共和国税收征收管理法》和本法的有关规定征收管理。\n生态环境主管部门依照本法和有关环境保护法律法规的规定负责对污染物的监测管理。\n县级以上地方人民政府应当建立税务机关、生态环境主管部门和其他相关单位分工协作工作机制，加强环境保护税征收管理，保障税款及时足额入库。",
+          "judicial_case": "",
+          "relevant_laws": [
+            "中华人民共和国税收征收管理法"
+          ]
+        },
+        {
+          "article_number": "第十五条",
+          "content": "生态环境主管部门和税务机关应当建立涉税信息共享平台和工作配合机制。\n生态环境主管部门应当将排污单位的排污许可、污染物排放数据、环境违法和受行政处罚情况等环境保护相关信息，定期交送税务机关。\n税务机关应当将纳税人的纳税申报、税款入库、减免税额、欠缴税款以及风险疑点等环境保护税涉税信息，定期交送生态环境主管部门。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第十六条",
+          "content": "纳税义务发生时间为纳税人排放应税污染物的当日。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第十七条",
+          "content": "纳税人应当向应税污染物排放地的税务机关申报缴纳环境保护税。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第十八条",
+          "content": "环境保护税按月计算，按季申报缴纳。不能按固定期限计算缴纳的，可以按次申报缴纳。\n纳税人申报缴纳时，应当向税务机关报送所排放应税污染物的种类、数量，大气污染物、水污染物的浓度值，以及税务机关根据实际需要要求纳税人报送的其他纳税资料。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第十九条",
+          "content": "纳税人按季申报缴纳的，应当自季度终了之日起十五日内，向税务机关办理纳税申报并缴纳税款。纳税人按次申报缴纳的，应当自纳税义务发生之日起十五日内，向税务机关办理纳税申报并缴纳税款。\n纳税人应当依法如实办理纳税申报，对申报的真实性和完整性承担责任。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第二十条",
+          "content": "税务机关应当将纳税人的纳税申报数据资料与生态环境主管部门交送的相关数据资料进行比对。\n税务机关发现纳税人的纳税申报数据资料异常或者纳税人未按照规定期限办理纳税申报的，可以提请生态环境主管部门进行复核，生态环境主管部门应当自收到税务机关的数据资料之日起十五日内向税务机关出具复核意见。税务机关应当按照生态环境主管部门复核的数据资料调整纳税人的应纳税额。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第二十一条",
+          "content": "依照本法第十条第四项的规定核定计算污染物排放量的，由税务机关会同生态环境主管部门核定污染物排放种类、数量和应纳税额。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第二十二条",
+          "content": "纳税人从事海洋工程向中华人民共和国管辖海域排放应税大气污染物、水污染物或者固体废物，申报缴纳环境保护税的具体办法，由国务院税务主管部门会同国务院生态环境主管部门规定。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第二十三条",
+          "content": "纳税人和税务机关、生态环境主管部门及其工作人员违反本法规定的，依照《中华人民共和国税收征收管理法》、《中华人民共和国环境保护法》和有关法律法规的规定追究法律责任。",
+          "judicial_case": "",
+          "relevant_laws": [
+            "中华人民共和国税收征收管理法",
+            "中华人民共和国环境保护法"
+          ]
+        },
+        {
+          "article_number": "第二十四条",
+          "content": "各级人民政府应当鼓励纳税人加大环境保护建设投入，对纳税人用于污染物自动监测设备的投资予以资金和政策支持。",
+          "judicial_case": "",
+          "relevant_laws": []
+        }
+      ]
+    },
+    {
+      "chapter_title": "第五章 附 则",
+      "articles": [
+        {
+          "article_number": "第二十五条",
+          "content": "本法下列用语的含义：",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第二十六条",
+          "content": "直接向环境排放应税污染物的企业事业单位和其他生产经营者，除依照本法规定缴纳环境保护税外，应当对所造成的损害依法承担责任。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第二十七条",
+          "content": "国务院根据国民经济和社会发展以及环境保护需要，对直接向环境排放本法所附《应税污染物和当量值表》规定以外的挥发性有机物的企业事业单位和其他生产经营者开展征收环境保护税试点工作。试点实施办法由国务院制定，报全国人民代表大会常务委员会备案。\n国务院及其有关部门应当根据挥发性有机物的特点，合理设定征税范围和税额幅度，完善监测技术和排放量计算方法，加强工作协同，加快推进试点工作。\n国务院自试点实施办法施行之日起五年内，就征收挥发性有机物环境保护税试点情况向全国人民代表大会常务委员会报告，并提出修改法律的建议。",
+          "judicial_case": "",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第二十八条",
+          "content": "自本法施行之日起，依照本法规定征收环境保护税，不再征收排污费。",
+          "judicial_case": "https://www.pkulaw.com/clink/pfnl/chl/5441c319dd6d34bfbdfb/28_0_0_0.html?way=textTiaoNewFblx",
+          "relevant_laws": []
+        },
+        {
+          "article_number": "第二十九条",
+          "content": "本法自2018年1月1日起施行。",
+          "judicial_case": "https://www.pkulaw.com/clink/pfnl/chl/5441c319dd6d34bfbdfb/29_0_0_0.html?way=textTiaoNewFblx",
+          "relevant_laws": []
+        }
+      ]
+    }
+  ]
+}
